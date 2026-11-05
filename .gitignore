@@ -1,0 +1,20 @@
+# Arquivos compilados
+*.class
+bin/
+out/
+build/
+
+# Configuracoes de IDE
+.idea/
+.settings/
+.classpath
+.project
+nbproject/private/
+
+# Arquivos temporarios do sistema operacional
+Thumbs.db
+.DS_Store
+
+# Arquivos temporarios e logs
+*.tmp
+*.log
